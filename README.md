@@ -1,2 +1,1 @@
-# hello-world
-my first repo on git
+print("hello world")
