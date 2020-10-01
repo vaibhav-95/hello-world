@@ -1,7 +1,4 @@
-print("hello world")
-print "how are you?"
+this is my first Repo
 
-
-print "welcome to python"
 
 
